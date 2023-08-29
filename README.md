@@ -1,2 +1,8 @@
 # Pharmacy_Management
-<br/> Frotend and Backend codes for Pharmacy managemnet system
+<p> Frotend and Backend codes for Pharmacy managemnet system.</br>
+I coded this using 'Visual Code Studio'.</br>
+Few things before diving in:(in terminal)</p>
+```
+pip install tk
+```
+
