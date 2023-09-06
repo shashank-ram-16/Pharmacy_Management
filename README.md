@@ -9,7 +9,6 @@ Pharmacy Management System is a Python application built with the Tkinter librar
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 
@@ -59,11 +58,6 @@ To run this Pharmacy Management System, you need to have Python 3.x installed on
 
 3. Use the navigation buttons and input fields to interact with the system.
 
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-![Screenshot 3](/screenshots/screenshot3.png)
 
 ## Contributing
 
