@@ -10,6 +10,7 @@ Pharmacy Management System is a Python application built with the Tkinter librar
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Development Environment](#development-Environment)
 
 
 ## Features
@@ -74,4 +75,6 @@ We welcome contributions from the community to improve this Pharmacy Management 
 
 ---
 
-Feel free to customize this README template according to your project's specific details and requirements. You can also add more sections as needed to provide additional information about your project.
+## Development Environment
+
+This project was developed using [Visual Studio Code (VSCode)](https://code.visualstudio.com/), a popular and versatile code editor provided by Microsoft. VSCode offers a range of features and extensions that enhance the development experience, making it a great choice for creating Python applications like this Pharmacy Management System.
