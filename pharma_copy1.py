@@ -183,7 +183,7 @@ class pharmacy:
         self.medicine_table.column("ref",width=100)
         self.medicine_table.column("medname",width=100)
 
-        self.medicine_table.bind("<ButtonRelease-1>", lambda event: self.Medget_cursor(event))
+       
 
         ######## Medicine add button #####
        
