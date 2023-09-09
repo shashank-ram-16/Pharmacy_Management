@@ -70,11 +70,11 @@ If you would like to contribute to this project, please follow these steps:
 4. Push your changes to your fork.
 5. Create a pull request to the main repository's `main` branch.
 
-We welcome contributions from the community to improve this Pharmacy Management System.
+
 
 
 ---
 
 ## Development Environment
 
-This project was developed using [Visual Studio Code (VSCode)](https://code.visualstudio.com/), a popular and versatile code editor provided by Microsoft. VSCode offers a range of features and extensions that enhance the development experience, making it a great choice for creating Python applications like this Pharmacy Management System.
+This project was developed using [Visual Studio Code (VSCode)](https://code.visualstudio.com/), a popular and versatile code editor. VSCode offers a range of features and extensions that enhance the development experience, making it a great choice for creating Python applications like this Pharmacy Management System.
