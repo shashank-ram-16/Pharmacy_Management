@@ -14,10 +14,18 @@ This guide provides instructions on how to install MySQL and create two database
 
 
    
+### `pharma` Table
+
+```sql
 CREATE TABLE pharma (
    Ref INT NOT NULL PRIMARY KEY,
    MedName VARCHAR(45) NOT NULL
 );
+```
+
+
+
+### `pharmacy` Table
  ```sql
 CREATE TABLE pharmacy (
    Ref_no INT NOT NULL,
