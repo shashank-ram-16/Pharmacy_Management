@@ -4,13 +4,13 @@ This guide provides instructions on how to install MySQL and create two database
 
 ## Install MySQL
 
-1. **Install MySQL**: Visit the [MySQL Downloads](https://dev.mysql.com/downloads/mysql/) page, download the MySQL Installer suitable for your operating system, and follow the installation instructions.Then use MySQL Workbench to create databases
+1. **Install MySQL**: Visit the [MySQL Downloads](https://dev.mysql.com/downloads/mysql/) page, download the MySQL Installer suitable for your operating system, and follow the installation instructions.Then use MySQL Workbench to create databases.
 
 2. **Create the Databases**:
 
    ```sql
-   CREATE DATABASE pharma;
-   CREATE DATABASE pharmacy;
+   CREATE DATABASE anyname;
+  
 
 
    
