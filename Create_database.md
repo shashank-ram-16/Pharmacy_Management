@@ -12,12 +12,13 @@ This guide provides instructions on how to install MySQL and create two database
    CREATE DATABASE pharma;
    CREATE DATABASE pharmacy;
 
-   TABLE STRUCTURES
+
+   
 CREATE TABLE pharma (
    Ref INT NOT NULL PRIMARY KEY,
    MedName VARCHAR(45) NOT NULL
 );
-
+ ```sql
 CREATE TABLE pharmacy (
    Ref_no INT NOT NULL,
    CmpName VARCHAR(45) NOT NULL,
