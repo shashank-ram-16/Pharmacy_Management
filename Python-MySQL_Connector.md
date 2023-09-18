@@ -13,11 +13,10 @@ This guide provides instructions on how to download the Python MySQL Connector a
     ```
 
    Python Code for MySQL Connection
-   ```bash
-   import mysql.connector
-   
+ 
 
 ```bash
+import mysql.connector
 # Replace the following parameters with your MySQL server details
 host = "localhost"
 user = "root"
